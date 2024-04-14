@@ -88,6 +88,16 @@ const ProjectPage = () => {
             </a>
           </p>
         </div>
+        <div className="project">
+          <p>TypeRacer</p>
+          <p>Type Testing React App</p>
+          <p>
+            <span>2024</span>
+            <a href="https://typeracer-beta.vercel.app/">
+              Tap to view
+            </a>
+          </p>
+        </div>
       </div>
     </div>
   );
