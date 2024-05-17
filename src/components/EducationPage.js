@@ -16,7 +16,7 @@ const EducationPage = () => {
           <p>Data Entry and Helpdesk Associate</p>
           <p>SiSGreen Technologies </p>
           <p>
-            <span>March'22 - August'22</span>
+            <span>August'21 - August'22</span>
             <a href="/">
               <LocationOnIcon />
               Mangalore, India
